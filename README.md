@@ -6,7 +6,7 @@
 <br>
 💬 Ask me about React, Nodejs, React Native
 <br>
-👨‍💻 All of my projects are available at [website]https://alexandrepletty.com/)
+👨‍💻 All of my projects are available at https://alexandrepletty.com/
 <br>
 📫 How to reach me alexandre.pletty@gmail.com
 
