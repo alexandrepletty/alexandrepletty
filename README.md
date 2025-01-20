@@ -1,12 +1,12 @@
 ## Hi there, L'm [Alexandre Pletty](https://github.com/alexandrepletty) 👋
 <br>
-🔭 I’m currently working on Owlee
+🔭 I’m currently working on Cutify
 <br>
 🌱 I’m currently learning Java
 <br>
 💬 Ask me about React, Nodejs, React Native
 <br>
-👨‍💻 All of my projects are available at [https://alexandrepletty.com/](https://alexandrepletty.com/)
+👨‍💻 All of my projects are available at [website]https://alexandrepletty.com/)
 <br>
 📫 How to reach me alexandre.pletty@gmail.com
 
